@@ -68,8 +68,8 @@ function create_config( )
 		"Fun",
 		"Info"
 	},
-    sudo_users = {160149610,0000000},
-    admins = {160149610,0000000},
+    sudo_users = {317676202,315017219},
+    admins = {317676202,315017219}},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[*iManager v3* - Free Source
